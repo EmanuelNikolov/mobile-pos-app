@@ -1,0 +1,29 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="2824F95D-C354-4778-B9ED-E9FA0D930EC4" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="75241B33-92EB-4BF1-ACAC-520084F2182E" controlTypeID="Button" x="120" y="460" w="120" h="48" zOrder="0">
+      <color>15790320</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3F1BB6F4-310D-4E44-B962-B6F47DA64199" linkType="ltPageLink" isApplyIncludePage="False" title="Input+Code">
+          <area shape="0" alt="" ID="{82CC99CE-4571-46B6-916B-CCCB66AA3681}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>GET+STARTED</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>2</thickness>
+    </control>
+    <control controlID="7BA4D047-C8AA-424C-8AC3-6892CBF82693" controlTypeID="Image" x="40" y="184" w="280" h="39" zOrder="1">
+      <URL>31D69B5138F2BF8FCAF71622C95C10B1.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281023890</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

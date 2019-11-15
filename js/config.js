@@ -1,0 +1,1 @@
+window.config={"logo":"","background":"#C4C4C4","shell":"Android","showControlPanel":false,"iOSGuide":false,"alwaysShowLinks":false,"hoverShowLinks":false,"hoverShowRemarks":false,"showComments":false,"showQRCode":false,"hintLinks":false,"scrollRemarks":false,"isShowAllPageNode":false,"isShowPreviewTools":false,"showRemarkFlag":false}

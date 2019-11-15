@@ -1,0 +1,55 @@
+﻿<project version="2.9" name="rocapay" ID="D8A4813A-0491-413D-87F0-C994D7AD0764">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4281023890" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Public Pages" ID="F6F8DF36-B95B-473A-AC7C-C524679F9F2F" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="Get Started" ID="2824F95D-C354-4778-B9ED-E9FA0D930EC4" expanded="True" code="XjhB8kFZdi" thumbCode="XjhB8kFZdi" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="31D69B5138F2BF8FCAF71622C95C10B1.png"/>
+        </images>
+      </page>
+      <page name="Input Code" ID="3F1BB6F4-310D-4E44-B962-B6F47DA64199" expanded="True" code="T35BaAJcJW" thumbCode="T35BaAJcJW" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="User Pages" ID="99A68D14-A0DD-4045-8ED6-88026C165792" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="Barcode Generator" ID="8CC29FC5-D6BF-4333-882F-80A7AD76B1D9" expanded="True" code="qvm89TxW9K" thumbCode="qvm89TxW9K" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="3568FD517E57C2F0606AE7AB89B95768.svg"/>
+          <image key="31D69B5138F2BF8FCAF71622C95C10B1.png"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        </images>
+      </page>
+      <page name="Payments History" ID="5EB8C7E6-7ABA-437D-A30F-B1F29EE839A8" expanded="True" code="ntSX23DRKQ" thumbCode="ntSX23DRKQ" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="31D69B5138F2BF8FCAF71622C95C10B1.png"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        </images>
+      </page>
+      <page name="Settings" ID="F5937FB5-8754-4C06-A55D-1743B034AE99" expanded="True" code="GkjxcvUxs4" thumbCode="GkjxcvUxs4" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="31D69B5138F2BF8FCAF71622C95C10B1.png"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        </images>
+      </page>
+      <page name="Barcode" ID="B3AF1E7D-283D-4F90-BDBB-5CC26C55C949" expanded="True" code="wxaYmvcgsM" thumbCode="EeDZbn5v25" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="31D69B5138F2BF8FCAF71622C95C10B1.png"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        </images>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page" ID="3F848445-BB8D-4F01-8FB7-A98946748034" expanded="True" code="R7VESGjyyL" thumbCode="BdSkzSeHi4" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="3568FD517E57C2F0606AE7AB89B95768.svg"/>
+    <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+    <image key="31D69B5138F2BF8FCAF71622C95C10B1.png"/>
+  </images>
+</project>

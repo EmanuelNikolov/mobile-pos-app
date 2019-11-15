@@ -1,0 +1,61 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="3F1BB6F4-310D-4E44-B962-B6F47DA64199" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="861F5A12-3A26-4DB9-9C5F-EEA3261F1CA7" controlTypeID="TextInput" x="75" y="300" w="214" h="39" zOrder="0">
+      <borderColor>4283519313</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B27A73D0-AE52-480A-ADDE-3BD0DE7E9AA2" controlTypeID="Label" x="73" y="181" w="218" h="27" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Enter+POS+Pairing+Code</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2BC81D1B-2478-4E62-8C90-DBE37183446B" controlTypeID="__group__" x="40" y="218" w="281" h="41" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="CE5833CA-8FE7-4BA1-AB12-570BD0AD40C5" controlTypeID="Label" x="0" y="0" w="281" h="19" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>You+can+obtain+the+code+under+the+POS+menu</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E231275F-2D7C-40EE-A371-2A0FDDA590FA" controlTypeID="Label" x="64" y="22" w="169" h="19" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>in+your+Rocapay+Dashboard</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="CC3EA793-CC04-48A6-BBC3-30E191AA1CB0" controlTypeID="Button" x="122" y="380" w="120" h="48" zOrder="3">
+      <color>2833810</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8CC29FC5-D6BF-4333-882F-80A7AD76B1D9" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{F528EED3-EA01-4299-9C3B-AFD87F376B9E}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>PAIR</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>2</thickness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281023890</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+    <remark>ggggg</remark>
+  </param>
+</mockup>
